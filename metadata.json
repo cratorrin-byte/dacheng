@@ -1,0 +1,6 @@
+{
+  "name": "Da Cheng Tires & Machinery",
+  "description": "Premium industrial tire equipment, professional diagnostic machinery, and technician training services since 1971.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
